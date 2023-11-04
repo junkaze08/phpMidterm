@@ -1,3 +1,5 @@
+<!--Junester Ursora II BSIT 4-A
+    FRONTEND 3rd Question-->
 <?php
 class Product {
     public $name;

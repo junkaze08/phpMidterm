@@ -1,3 +1,5 @@
+<!--Junester Ursora II BSIT 4-A
+    FRONTEND 2nd Question-->
 <?php
 function calculateTotalSales($salesData, $productName) {
     $lines = explode("\n", $salesData);
